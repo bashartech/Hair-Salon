@@ -1,0 +1,6 @@
+{
+  "name": "VALENTI Atelier | Luxury Men's Barbershop & Grooming",
+  "description": "An editorial, cinematic men's hair salon and grooming atelier. Bespoke cuts, beard sculpting, and signature gentleman grooming rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
